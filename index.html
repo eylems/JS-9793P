@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Focus</title>
+    <link rel="stylesheet" href="focus.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <div class="header">
+      <div class="container-lg">
+        <div class="sm col-6">
+          <h1>Focus</h1>
+        </div>
+      </div>
+      <div class="button-and-counter">
+        <div class="button-area">
+          <button class="counter-button" id="increaseButton">
+            Telefona Baktım
+          </button>
+          <button class="clear-button" id="clearButton">Clear</button>
+        </div>
+        <div class="counter-area">
+          <p class="counter" id="counter">0</p>
+          <p class="distraction-message" id="distractionMessage">
+            Çalışmaya başladığınızdan beri telefonunuz '<span
+              id="distractionCount"
+              >0</span
+            >' kere dikkatinizi dağıttı.
+          </p>
+        </div>
+      </div>
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1qiSgTZJlPtwo97GdLx9Jl?utm_source=generator&theme=0" width="25%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+
+    <script src="focus.js"></script>
+  </body>
+</html>

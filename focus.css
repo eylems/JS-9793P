@@ -1,0 +1,58 @@
+body {
+  background: url(/img/nasa-n463SoeSiVY-unsplash.jpg);
+  background-size: cover;
+background-color: #545454
+}
+h1 {
+  justify-content: center;
+  display: flex;
+  font-family: "Rubik Wet Paint", serif;
+  font-weight: 400;
+  font-size: 85px;
+  font-style: normal;
+  color: #545454;
+}
+.button-and-counter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.button-area {
+  margin-bottom: 10px;
+}
+
+.counter-area {
+  margin-top: 0;
+  font-family: "Rubik Wet Paint", serif;
+}
+
+.counter-button {
+font-family: "Rubik Wet Paint", serif;
+color: #545454;
+font-size: large;
+}
+
+.clear-button {
+  font-family: "Rubik Wet Paint", serif;
+  font-size: large;
+}
+
+.distraction-message {
+  color: #e6e6e6;
+  font-size: 1.2rem;
+  margin-top: 1rem;
+  color: #464545;
+}
+.counter {
+  justify-content: center;
+  display: flex;
+  color: #464545;
+  font-size: 55px;
+}
+iframe {
+  justify-content: center;
+  padding-left: 720px;
+  
+}
