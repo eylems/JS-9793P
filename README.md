@@ -1,6 +1,6 @@
-# 🌌 Focus
+# 🌌 Focus Counter
 
-**Focus**, kullanıcıların çalışma sırasında dikkatlerinin ne sıklıkla dağıldığını fark etmelerini sağlayan basit ve etkili bir sayaç uygulamasıdır. Her telefon ekranına bakıldığında bir tuşa basarak sayacı artırabilir, böylece gün boyunca ne kadar dikkat dağıldığını görebilirsiniz.
+**Focus Counter**, kullanıcıların çalışma sırasında dikkatlerinin ne sıklıkla dağıldığını fark etmelerini sağlayan basit ve etkili bir sayaç uygulamasıdır. Her telefon ekranına bakıldığında bir tuşa basarak sayacı artırabilir, böylece gün boyunca ne kadar dikkat dağıldığını görebilirsiniz.
 
 
 
